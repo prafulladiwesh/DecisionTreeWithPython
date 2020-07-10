@@ -11,5 +11,6 @@ Input data is expected to be a .csv file which will be provided through terminal
 Expected output is a xml file which will be created in the same working directory.
 
 # How to Run the program?
-Using the following command: 
+Using the following command:
+
     python3 decisiontree.py --data somedata.csv --output someoutput.xml
